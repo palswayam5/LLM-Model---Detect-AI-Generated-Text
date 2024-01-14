@@ -19,6 +19,6 @@
   &emsp; (Note: Encoder creates embedded vector). <br/>
    &emsp;(To know more about BERT read [https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270]) <br/>
 2. Encoder Layer (Preprocessing layer to mark embeddings to the dataset) ----> Dropout Layer -------> Dense Layer <br/>
-3. Model Summary : <br />
-<img width="397" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/bff4bed9-4d34-4a44-9e85-8313aaad2044">
+3. In general BERT model : <br />
+<img width="565" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/ce0ab0ea-3230-4b83-b0ac-754bd51d1250">
 
