@@ -14,7 +14,7 @@
 
 # BERT
 1. Since it is a Transformer model it consists of two major units which are **Encoder** and **Decoder** </br>
-         i. **Encoder** --> As opposed to directional models, which read the text input sequentially (left-to-right or right-to-left), the Transformer encoder reads the entire sequence of words at once. Therefore it is considered bidirectional, though it would be more accurate to say that it’s non-directional. This                           characteristic allows the model to learn the context of a word based on all of its surroundings (left and right of the word).
+         i. **Encoder** --> As opposed to directional models, which read the text input sequentially (left-to-right or right-to-left), the Transformer encoder reads the entire sequence of words at once. Therefore it is considered bidirectional, though it would be more accurate to say that it’s non-directional. This                           characteristic allows the model to learn the context of a word based on all of its surroundings (left and right of the word).<br/>
          ii. **Decoder** --> Predicts the output. Consists of several layers of connected neural newtwork layer. <br/>
    (Note: Encoder creates embedded vector). <br/>
    (To know more about BERT read [https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270]) <br/>
