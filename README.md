@@ -1,13 +1,13 @@
 # LLM-Model:Detect-AI-Generated-Text
 
 # Dataset
-Data 1: [https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data]
-Data 2: [https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset/data]
+1. Data 1: [https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data]
+2. Data 2: [https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset/data]
 
 # Removed Skewness of the Dataset
-Skewed Dataset:
+1. Skewed Dataset:
 <img width="405" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/0839020f-9395-4ca6-8868-64e26420407e">
-Updated Dataset:
+2. Updated Dataset:
 <img width="301" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/c2ac0195-1222-4557-a5c0-995a78456a87">
 
 
