@@ -22,3 +22,8 @@
 3. In general BERT model : <br />
 <img width="565" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/ce0ab0ea-3230-4b83-b0ac-754bd51d1250">
 
+# Final Results
+1. Accuracy: 0.8723 
+2. Precision: 0.8578 
+3. Recall: 0.9570
+
