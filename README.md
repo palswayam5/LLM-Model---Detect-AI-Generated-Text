@@ -1,13 +1,9 @@
 # LLM-Model____Detect-AI-Generated-Text
 
-
-I have implemented BERT transformer model for the Dataset.
-
 # Dataset
 
 Skewed Dataset:
-![Preview]<img width="405" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/0839020f-9395-4ca6-8868-64e26420407e">
-
+<img width="405" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/0839020f-9395-4ca6-8868-64e26420407e">
 
 # BERT
 1. Since it is a Transformer model it consists of two major units which are **Encoder** and **Decoder**
