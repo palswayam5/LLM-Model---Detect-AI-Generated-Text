@@ -1,9 +1,15 @@
-# LLM-Model____Detect-AI-Generated-Text
+# LLM-Model:Detect-AI-Generated-Text
 
 # Dataset
+Data 1: [https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data]
+Data 2: [https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset/data]
 
+# Removed Skewness of the Dataset
 Skewed Dataset:
 <img width="405" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/0839020f-9395-4ca6-8868-64e26420407e">
+Updated Dataset:
+<img width="301" alt="image" src="https://github.com/palswayam5/LLM-Model---Detect-AI-Generated-Text/assets/97727708/c2ac0195-1222-4557-a5c0-995a78456a87">
+
 
 # BERT
 1. Since it is a Transformer model it consists of two major units which are **Encoder** and **Decoder**
@@ -11,4 +17,4 @@ Skewed Dataset:
          2. Decoder --> Predicts the output. Consists of several layers of connected neural newtwork layer.
    (Note: Encoder creates embedded vector).
    (To know more about BERT read [https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270])
-2. 
+2. Encoder Layer (Preprocessing layer to mark embeddings to the dataset) ----> Dropout Layer -------> Dense Layer
